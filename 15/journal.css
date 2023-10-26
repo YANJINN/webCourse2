@@ -1,19 +1,23 @@
-body{
-font-family:Verdana, Geneva, Arial ;
-margin:0px;
-padding:0px;
+*{
+  font-family: Verdana, Geneva, Arial;
+  margin: 0px;
+  padding: 0px;
 }
+
 h1{
-font-size: 2.2rem;
+  font-size: 2.2rem;
 }
+
 h2{
-font-size: 1.3rem;
-font-weight: normal;
+  font-size: 1.3rem;
+  font-weight: normal;
 }
+
 blockquote{
-font-style: italic;
+  font-style: italic;
 }
+
 h1,h2{
-color: #c60;
-border-bottom: thin dotted #888;
+  color: #c60;
+  border-bottom: thin dotted #888;
 }
