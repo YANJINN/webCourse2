@@ -25,5 +25,10 @@ h2 {
 	line-height: 1.9em;
 	font-style: italic;
 	color: #444444;
-	font-family: Georgia, "Times New Roman"
+	font-family: Georgia, "Times New Roman";
+  background-image: url(images/background.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	padding-left: 80px;
+	margin-right: 250px;
 }
