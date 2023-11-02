@@ -51,3 +51,21 @@ h2 {
 	background-repeat: repeat-x;
 	text-align: center;
 }
+.cd{
+  font-style:italic;
+	}
+	.artist {
+	font-weight:bold;
+		}
+		.elixirs a:link {
+  color: #007e7e;
+}
+
+.elixirs a:visited {
+  color: #333333;
+}
+
+.elixirs a:hover {
+  background: #f88396;
+  color: #0d5353;
+}
