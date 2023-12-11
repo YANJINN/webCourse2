@@ -1,33 +1,33 @@
 .G {
-color:black;
-font-size:42px;
+  color:black;
+  font-size:42px;
 /* width: 10px; */
-font-weight: bold;
-line-height: 1;
-text-align:center;
+  font-weight: bold;
+  line-height: 1;
+  text-align:center;
   }
 .S {
-color:black;
-font-size:42px;
-font-weight: bold;
-line-height: 1.5;
-text-align:center;
+  color:black;
+  font-size:42px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-align:center;
   }
 .GET {
-color:black;
-font-size:30px;
-font-weight: bold;
-line-height: 1;
-text-align: center;
-margin: 8px;
+  color:black;
+  font-size:32px;
+  font-weight: bold;
+  line-height: 1;
+  text-align: center;
+  margin: 8px;
   }
 .picture {
-margin:35px;
-height: 2px;
-width: 2px;
-border-radius: 2em; 
-position: relative;
-left:-100px;
+  margin:35px;
+  height: 2px;
+  width: 2px;
+  border-radius: 2em; 
+  position: relative;
+  left:-100px;
   }
 
 /* img{
@@ -36,37 +36,37 @@ left:-100px;
 } */
 
 .O {
-color:gray;
-text-align: center;
-font-size:21px;
-position: relative;
-bottom: 680px;
-left:-340px; 
+  color:gray;
+  text-align: center;
+  font-size:21px;
+  position: relative;
+  bottom: 680px;
+  left:-340px; 
   }
 .Use {
-color:gray;
-font-size:18px;
+  color:gray;
+  font-size:18px;
   }
 .Online {
-color:gray;
-font-size:12px;
-margin: 15px;
+  color:gray;
+  font-size:12px;
+  margin: 15px;
 /* position: relative;
 left:200px;
 bottom:300px; */
   }
 .box {
-border:solid 2px #3058af;
-border-radius: 2em;
-width:200px;
-height:40px;
-color:#3058af;
+  border:solid 2px #3058af;
+  border-radius: 2em;
+  width:200px;
+  height:40px;
+  color:#3058af;
 /* padding-left: 10px; */
-padding-top: 10px;
-text-align: center;
-position: relative;
-left:460px;
-margin:30px;
+  padding-top: 10px;
+  text-align: center;
+  position: relative;
+  left:460px;
+  margin:30px;
 /* background-color: #ffffff; */
   }
 
@@ -99,29 +99,51 @@ margin:30px;
   margin-right: auto;
   }
 .A {
-color:gray;
-font-size:19px;
-position: relative;
-bottom: 277px;
-left:700px; 
+  color:gray;
+  font-size:19px;
+  position: relative;
+  bottom: 277px;
+  left:700px; 
   }
   .YOU {
   color:black;
-  font-size:30px;
+  font-size:32px;
   font-weight: bold;
   line-height: 1;
   text-align: center;
   margin: 8px;
   position: relative;
   bottom: 275px;
-  left:700px; 
+  left:685px; 
     }
 .ATT {
-color:gray;
-font-size:18px;
+  color:gray;
+  font-size:18px;
+  position: relative;
+  bottom: 272px;
+  left:700px; 
 }
 
 .jiacu {
   color:rgb(87, 81, 81);
   font-weight:700;
 }
+.plans {
+  color:gray;
+  font-size:12px;
+  position: relative;
+  bottom: 260px;
+  left:698px;
+  }
+  .box2 {
+  border:solid 2px #3058af;
+  border-radius: 2em;
+  width:175px;
+  height:41px;
+  color:#3058af;
+  padding-top: 10px;
+  text-align: center;
+  position: relative;
+  left:1185px;
+  bottom: 230px;
+  }
