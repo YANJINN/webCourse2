@@ -179,14 +179,52 @@ bottom:300px; */
     bottom: 121px;
     }
     .box3 {
-    border:solid 2px #e03308;
+    border:solid 2px #ffffff;
     border-radius: 2em;
-    width:200px;
-    height:100px;
-    color:#e74818;
+    width:150px;
+    height:32px;
+    color:#3058af;
     padding-top: 10px;
     text-align: center;
     position: relative;
-    left:185px;
-    bottom: 730px;
+    left:520px;
+    bottom: 785px;
+    background-color: #ffffff;
+    font-weight: bold;
     }
+    .tupian4 {
+    width:430px;
+    height:260px;
+    border:1px solid #ffffff;
+    border-radius:0.6em;
+    position: relative;
+    left:50px;
+    bottom: 30px;
+    }
+    .tupian5 {
+    width:380px;
+    height:260px;
+    border:1px solid #ffffff;
+    border-radius:0.6em;
+    position: relative;
+    left:600px;
+    bottom:300px;
+    }
+    .tupian6 {
+    width:380px;
+    height:260px;
+    border:1px solid #ffffff;
+    border-radius:0.6em;
+    position: relative;
+    left:1050px;
+    bottom: 508px;
+    }
+  .beijing {
+    background-color:rgb(247, 243, 243);
+    position: relative;
+    bottom:680px;
+    height:600px;
+    width:1490px;
+    left:-135px;
+  }
+  
