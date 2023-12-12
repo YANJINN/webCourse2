@@ -147,3 +147,46 @@ bottom:300px; */
   left:1185px;
   bottom: 230px;
   }
+  .tupian3 {
+  width:1483px;
+  height:375px;
+  border:1px solid #ffffff;
+  border-radius:0.6em;
+  position: relative;
+  left:202px;
+  bottom: -150px;
+    }
+  .att {
+  color:#ffffff;
+  font-size: 21px;
+  position: relative;
+  left:331px;
+  bottom: 129px;
+    }
+    .When {
+    color:#ffffff;
+    font-size:40px;
+    position: relative;
+    left:331px;
+    bottom: 129px;
+    font-weight: bold;
+    }
+    .From {
+    color:#ffffff;
+    font-size:16px;
+    position: relative;
+    left:331px;
+    bottom: 121px;
+    }
+    .box3 {
+    border:solid 2px #e03308;
+    border-radius: 2em;
+    width:200px;
+    height:100px;
+    color:#e74818;
+    padding-top: 10px;
+    text-align: center;
+    position: relative;
+    left:185px;
+    bottom: 730px;
+    }
