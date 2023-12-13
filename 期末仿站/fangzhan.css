@@ -198,17 +198,17 @@ bottom:300px; */
     border:1px solid #ffffff;
     border-radius:0.6em;
     position: relative;
-    left:50px;
-    bottom: 30px;
+    left:65px;
+    bottom: -50px;
     }
     .tupian5 {
-    width:380px;
+    width:415px;
     height:260px;
     border:1px solid #ffffff;
     border-radius:0.6em;
     position: relative;
-    left:600px;
-    bottom:300px;
+    left:530px;
+    bottom:220px;
     }
     .tupian6 {
     width:380px;
@@ -216,15 +216,75 @@ bottom:300px; */
     border:1px solid #ffffff;
     border-radius:0.6em;
     position: relative;
-    left:1050px;
-    bottom: 508px;
+    left:980px;
+    bottom: 485px;
     }
   .beijing {
     background-color:rgb(247, 243, 243);
     position: relative;
     bottom:680px;
-    height:600px;
+    height:1160px;
     width:1490px;
     left:-135px;
   }
-  
+  .kuang {
+  width: 430px;
+  height: 750px;
+  border:1px solid #ffffff;
+  border-radius:0.6em;
+  background-color: #ffffff;
+  border-radius: 0px;
+  border-end-start-radius: 12px;
+  border-end-end-radius: 12px;
+  position: relative;
+  left:65px;
+  bottom: 485.8px;
+  }
+  .kuang2 {
+  width: 415px;
+  height: 750px;
+  border:1px solid #ffffff;
+  border-radius:0.6em;
+  background-color: #ffffff;
+  border-radius: 0px;
+  border-end-start-radius: 12px;
+  border-end-end-radius: 12px;
+  position: relative;
+  left:530px;
+  bottom: 1241.5px;
+  }
+  .kuang3 {
+  width: 380px;
+  height: 750px;
+  border:1px solid #ffffff;
+  border-radius:0.6em;
+  background-color: #ffffff;
+  border-radius: 0px;
+  border-end-start-radius: 12px;
+  border-end-end-radius: 12px;
+  position: relative;
+  left:980px;
+  bottom: 1995px;
+  }
+  .Card {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:95px;
+  bottom: 2715px;
+  }
+  .Earn {
+  color:black;
+  font-weight: bold;
+  font-size: 23px;
+  position: relative;
+  left:95px;
+  bottom: 2708px;
+  }
+  .gou1{
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:127px;
+  bottom: 2690px;
+  }
