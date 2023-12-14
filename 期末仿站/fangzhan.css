@@ -288,3 +288,69 @@ bottom:300px; */
   left:127px;
   bottom: 2690px;
   }
+  .gou2 {
+  color:gray;
+  font-size:15px;
+  position: relative;
+  left:127px;
+  bottom:2675px;
+  }
+  .qian1 {
+  color:gray;
+  font-size:11.5px;
+  position: relative;
+  left:100px;
+  bottom:2656px;
+  }
+  .qian2 {
+  color:gray;
+  font-size:11.5px;
+  position: relative;
+  left:100px;
+  bottom:2640px;
+  }
+  .R {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:560px;
+  bottom: 2962px;
+  }
+  .Low {
+  color:black;
+  font-weight: bold;
+  font-size: 23px;
+  position: relative;
+  left:560px;
+  bottom: 2955px;
+  }
+  .Plans {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:560px;
+  bottom: 2930px;
+  }
+  .Based {
+  color:gray;
+  font-size:11.5px;
+  position: relative;
+  left:560px;
+  bottom:2910px;
+  }
+  /* .xiahuaxian a:link {
+  text-decoration: underline;
+  color:gray;
+  }
+  .xiahuaxian a:visited{
+  text-decoration: underline;
+  color:gray;
+  }
+  .xiahuaxian a:hover {
+  text-decoration: underline;
+  color:gray;
+  }
+  .xiahuaxian a:active {
+  text-decoration: underline;
+  color:gray;
+  } */
