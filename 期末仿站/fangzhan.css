@@ -338,6 +338,56 @@ bottom:300px; */
   left:560px;
   bottom:2910px;
   }
+  .DI {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:1005px;
+  bottom:3162px;
+  }
+  .TV {
+  color:black;
+  font-weight: bold;
+  font-size: 23px;
+  position: relative;
+  left:1005px;
+  bottom: 3155px;
+  }
+  .gou3 {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:1035px;
+  bottom: 3130px;
+  }
+  .gou4 {
+  color:gray;
+  font-size:15px;
+  position: relative;
+  left: 1035px;
+  bottom: 3120px;
+  }
+  .gou5 {
+  color:gray;
+  font: size 15px;
+  position: relative;
+  left: 1035px;
+  bottom: 3110px;
+  }
+  .New {
+  color:gray;
+  font-size:11px;
+  position: relative;
+  left:1000px;
+  bottom:3090px;
+  }
+  .Terms {
+  color:gray;
+  font-size:11px;
+  position: relative;
+  left:1000px;
+  bottom:3070px;
+  }
   /* .xiahuaxian a:link {
   text-decoration: underline;
   color:gray;
