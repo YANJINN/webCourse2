@@ -1,5 +1,5 @@
 .G {
-  color:black;
+  color:#1d2329;
   font-size:42px;
 /* width: 10px; */
   font-weight: bold;
@@ -28,8 +28,16 @@
   border-radius: 2em; 
   position: relative;
   left:-100px;
+  transition: width 0.5s ease;
   }
-
+.picture:hover {
+  width:50px;
+	left:-105px; /* 悬停时移动到 0px 的位置 */
+}
+.gg {
+  width:20px;
+  filter: var(--rte-checkmark-att-blue, invert(44%) sepia(51%) saturate(1947%) hue-rotate(165.4deg) brightness(94%) contrast(101%));
+}
 /* img{
   width:600px;
   height:600px;
@@ -75,6 +83,7 @@ bottom:300px; */
   height:660px;
   border:1px solid #ffffff;
   border-radius:1.5em;
+  transition:all 1s;
   }
 
 .picture2 {
@@ -285,14 +294,14 @@ bottom:300px; */
   color:gray;
   font-size: 15px;
   position: relative;
-  left:127px;
+  left:100px;
   bottom: 2690px;
   }
   .gou2 {
   color:gray;
   font-size:15px;
   position: relative;
-  left:127px;
+  left:100px;
   bottom:2675px;
   }
   .qian1 {
@@ -357,21 +366,21 @@ bottom:300px; */
   color:gray;
   font-size: 15px;
   position: relative;
-  left:1035px;
+  left:1005px;
   bottom: 3130px;
   }
   .gou4 {
   color:gray;
   font-size:15px;
   position: relative;
-  left: 1035px;
+  left:1005px;
   bottom: 3120px;
   }
   .gou5 {
   color:gray;
   font: size 15px;
   position: relative;
-  left: 1035px;
+  left:1005px;
   bottom: 3110px;
   }
   .New {
@@ -397,7 +406,35 @@ bottom:300px; */
     text-align: center;
     position: relative;
     left:100px;
-    bottom: 3000px;
+    bottom: 2930px;
+    background-color: #2455f7;
+    font-weight: bold;
+    padding-top: 10px;
+    }
+    .box5 {
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    width:150px;
+    height:36px;
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    left:550px;
+    bottom: 2980px;
+    background-color: #2455f7;
+    font-weight: bold;
+    padding-top: 10px;
+    }
+    .box6 {
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    width:150px;
+    height:36px;
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    left:1000px;
+    bottom: 3035px;
     background-color: #2455f7;
     font-weight: bold;
     padding-top: 10px;
