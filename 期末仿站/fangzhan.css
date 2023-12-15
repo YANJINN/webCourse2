@@ -388,6 +388,20 @@ bottom:300px; */
   left:1000px;
   bottom:3070px;
   }
+  .box4 {
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    width:150px;
+    height:36px;
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    left:100px;
+    bottom: 3000px;
+    background-color: #2455f7;
+    font-weight: bold;
+    padding-top: 10px;
+    }
   /* .xiahuaxian a:link {
   text-decoration: underline;
   color:gray;
