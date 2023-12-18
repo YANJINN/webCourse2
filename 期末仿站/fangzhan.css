@@ -64,11 +64,11 @@ left:200px;
 bottom:300px; */
   }
 .box {
-  border:solid 2px #3058af;
+  border:solid 2px #0066eb;
   border-radius: 2em;
   width:200px;
   height:40px;
-  color:#3058af;
+  color:#0066eb;
 /* padding-left: 10px; */
   padding-top: 10px;
   text-align: center;
@@ -145,11 +145,11 @@ bottom:300px; */
   left:698px;
   }
   .box2 {
-  border:solid 2px #3058af;
+  border:solid 2px #0066eb;
   border-radius: 2em;
   width:175px;
   height:41px;
-  color:#3058af;
+  color:#0066eb;
   padding-top: 10px;
   text-align: center;
   position: relative;
