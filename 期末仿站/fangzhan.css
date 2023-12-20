@@ -253,12 +253,13 @@ color:rgb(245, 242, 242);
 }
 
 .box3yj a:hover {
-    width:150px;
+    /* width:150px;
     height:32px;
     border:solid 2px #ffffff;
     border-radius: 2em;
-    color:#94c0ec;
+    color:#94c0ec; */
     text-decoration:none;
+    color: #172533;
 }
 
 .box3yj a:active {
