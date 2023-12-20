@@ -1,0 +1,514 @@
+.allcontent{
+  width:1200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* top */
+.oo{
+  color:rgb(155, 151, 151);
+  text-align: center;
+  font-size:25px;
+}
+
+.FREE{
+  font-size:40px;
+  text-align: center;
+  font-weight: bold;
+  margin:10px;
+}
+
+.When{
+  font-size:18px;
+  color:rgb(155, 151, 151);
+  text-align: center;
+  margin: 16px;
+}
+
+.Ends{
+  font-weight:bold;
+  font-size:13px;
+}
+
+.See a:link{
+  color:rgb(155, 151, 151);
+}
+
+.See a:hover{
+  color:dodgerblue;
+}
+
+.See a:visited{
+  color:rgb(155, 151, 151);
+}
+
+.ESS{
+  color:rgb(155, 151, 151);
+  text-align: center;
+  margin:16px;
+  font-size:15px;
+}
+
+.phone{
+  margin:80px;
+}
+
+/* bluephone */
+/* 手机图片 */
+.bluephone{
+  /* width: 300px;
+  height: 200px;
+  object-fit:contain; */
+  width:330px;
+  border-radius:1.4em;
+  position: relative;
+  border-end-end-radius: 0px;
+  border-end-start-radius: 0px;
+}
+
+/* 蓝色手机框 */
+.blue{
+  border: 2px solid rgb(224, 223, 223);
+  width:330px;
+  border-radius: 1.5em;
+  position:relative;
+  left:5px;
+  bottom:32px;
+  height:605px;
+}
+
+.Learn{
+  color:rgb(155, 151, 151);
+  margin:10px;
+}
+
+.Google{
+  font-weight: bold;
+  font-size:25px;
+  margin:13px;
+}
+
+.money1{
+  font-weight: bold;
+  font-size:24px;
+  margin:0;
+}
+
+.No{
+  color:rgb(155, 151, 151);
+  margin:12px;
+  font-size: 14px;
+}
+
+.money2{
+  font-size:14px;
+  text-decoration:line-through;
+  margin:15px;
+  margin-bottom: -5px;
+}
+
+.money3{
+  font-size:19px;
+  position:absolute;
+  left:12px;
+}
+
+.money4{
+  font-weight: bold;
+  font-size:35px;
+  margin-left: 21px;
+}
+
+.Ltd{
+  color:rgb(155, 151, 151);
+  margin:10px;
+  font-size:11px;
+}
+
+.blod{
+  font-weight: bold;
+  font-size:11px;
+}
+
+/* 蓝色按钮 */
+.box1{
+  border:solid 2px #3058af;
+  border-radius: 3em;
+  width:160px;
+  height:40px;
+  background-color: #1a45a0;
+  color:aliceblue;
+  padding-top:12px;
+  text-align:center;
+  position:relative;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  font-size: 16px;
+}
+
+.box1 a:link{
+  color:aliceblue;
+  text-decoration-line: none;
+}
+
+.box1 a:visited{
+  color:aliceblue;
+  text-decoration-line: none;
+}
+
+.box1 a:hover{
+  color:aliceblue;
+  text-decoration-line: none;
+}
+
+/* grayphone */
+/* 灰色手机图片 */
+.grayphone{
+  margin:60px;
+  position: relative;
+  left:-60px;
+  bottom:30px;
+  width:335px;
+  border-radius:1.4em;
+  border-end-end-radius: 0px;
+  border-end-start-radius: 0px;
+}
+
+/* 灰色手机框 */
+.gray{
+  border: 2px solid rgb(224, 223, 223);
+  width:335px;
+  border-radius: 1.5em;
+  position:relative; 
+  left:370px;
+  bottom:640px;
+  height: 605px;
+}
+
+.suojin1{
+  position: relative;
+  top:-120px;
+}
+
+.Google8{
+  font-weight: bold;
+  font-size:22px;
+  margin-left: 8px;
+}
+
+.box2{
+  border:solid 2px #3058af;
+  border-radius: 3em;
+  width:160px;
+  height:42px;
+  background-color: #1a45a0;
+  color:aliceblue;
+  padding-top:12px;
+  text-align:center;
+  position:relative;
+  font-weight: bold;
+  margin-top: 78px;
+  margin-bottom: 78px;
+  font-size: 16px;
+}
+
+.box2 a:link{
+  color:aliceblue;
+  text-decoration-line: none;
+}
+
+.box2 a:visited{
+  color:aliceblue;
+  text-decoration-line: none;
+}
+
+.box2 a:hover{
+  color:aliceblue;
+  text-decoration-line: none;
+}
+
+/* bluegift */
+/* 蓝色礼物图片 */
+.bluegift{
+  margin:80px;
+  position: relative;
+  left:-80px;
+  bottom:40.5px;
+  width:335px;
+  border-radius:1.4em;
+  border-end-end-radius: 0px;
+  border-end-start-radius: 0px;
+}
+
+/* 蓝色礼物框 */
+.gift{
+  border: 2px solid rgb(224, 223, 223);
+  width:335px;
+  border-radius: 1.5em;
+  position:relative; 
+  left:740px;
+  bottom:1250px;
+  height:605px;
+}
+
+.Featured{
+  color:rgb(155, 151, 151);
+  margin:15px;
+  font-size: 16px;
+}
+
+.There{
+  font-weight: bold;
+  font-size:23px;
+  margin:13px;
+}
+
+.Check{
+  color:rgb(155, 151, 151);
+  margin:15px;
+  font-size: 18px;
+  margin-bottom:300px;
+}
+
+.suojin2{
+  position: relative;
+  top:-165px;
+}
+
+/* 倒计时 */
+
+.Today{
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  position: relative;
+  bottom:1228px;
+}
+
+.shuzi{
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  position: relative;
+  bottom:1218px;
+  word-spacing: 30px;
+}
+
+.zimu{
+  color:rgb(155, 151, 151);
+  font-size: 12px;
+  text-align: center;
+  position: relative;
+  bottom:1215px;
+  word-spacing: 40px;
+}
+
+/* 雪花蓝色框 */
+.snow{
+  border-radius:1em;
+  position: relative;
+  bottom:560px;
+  left:25px;
+  height:350px;
+  width: 350px;
+}
+
+/* 第一个框文字部分 */
+.whitefont{
+  color:rgb(241, 235, 227);
+  position: relative;
+  bottom:1450px;
+  left:73px;
+}
+
+.cyber{
+  font-size: 17px;
+  margin-bottom: 9px;;
+}
+
+.wenzi1{
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.for{
+  margin-top: -5px;
+}
+
+.wenzi2{
+  font-size:15px;
+  margin-top:12px;
+  margin-bottom: 13px;
+}
+
+.wenzi3{
+  font-size:9px;
+  margin-bottom: 20px;
+}
+
+.com1 a:link{
+  color:rgb(241, 235, 227);
+}
+
+.com1 a:visited{
+  color:rgb(241, 235, 227);
+}
+
+.com1 a:hover{
+  color:rgb(241, 235, 227);
+}
+
+.wenzi4{
+  font-size:15px;
+  font-weight: 550;
+}
+
+.shop a:link{
+  color:rgb(241, 235, 227);
+  text-decoration-line: none;
+}
+
+.shop a:visited{
+  color:rgb(241, 235, 227);
+  text-decoration-line: none;
+}
+
+.shop a:hover{
+  color:rgb(241, 235, 227);
+  text-decoration-line: none;
+}
+
+/* 第二个灰色框 */
+.graybox1{
+  border:2px solid rgba(231, 231, 231, 0.74);
+  background-color: rgba(231, 231, 231, 0.74);
+  border-radius: 1em;
+  position: relative;
+  width: 350px;
+  height:350px;
+  bottom:1715px;
+  left:430px;
+}
+
+.graybox2{
+  border:2px solid rgba(231, 231, 231, 0.74);
+  background-color: rgba(231, 231, 231, 0.74);
+  border-radius: 1em;
+  position: relative;
+  width: 350px;
+  height:350px;
+  bottom:2070px;
+  left:812px;
+}
+
+.grayfont1{
+  position: relative;
+  top:20px;
+  left:18px;
+}
+
+.wenzi5{
+  font-size: 18px;
+  color:rgb(155, 151, 151);
+  margin-bottom: 8px;
+  position: relative;
+}
+
+.wenzi6{
+  font-size:27px;
+  font-weight: bold;
+}
+
+.Unlimited{
+  position: relative;
+  margin-top: -2px;
+}
+
+.fuhao{
+  font-size: 20px;
+  position: relative;
+  top:-8px;
+  left:-8px
+}
+
+.wenzi7{
+  color:rgb(138, 132, 132);
+  font-size: 16px;
+  margin-top: 12px;
+}
+
+.wenzi8{
+  color:rgb(138, 132, 132);
+  font-size: 8px;
+  margin-top: 14px;
+  margin-bottom: 20px;
+}
+
+.com2 a:link{
+  color:#408ece;
+  text-decoration-line: none;
+  font-weight:550;
+  font-size: 18px;
+}
+
+.com2 a:visited{
+  color:#408ece;
+  text-decoration-line: none;
+}
+
+.com2 a:hover{
+  color:#408ece;
+  text-decoration-line: none;
+}
+
+.grayfont2{
+  position: relative;
+  margin-top: 20px;
+  margin-left:20px;
+}
+
+.discount{
+  font-size: 18px;
+  color:rgb(155, 151, 151);
+  margin-bottom: 8px;
+  position: relative;
+}
+
+.wenzi9{
+  font-size:28px;
+  font-weight: bold;
+  position: relative;
+  top:-2px;
+}
+
+.employer{
+  position: relative;
+  top:-4px;
+}
+
+.wenzi10{
+  color:rgb(138, 132, 132);
+  font-size: 15px;
+  margin-top: 12px;
+  margin-bottom:20px;
+}
+
+.com3 a:link{
+  color:#408ece;
+  text-decoration-line: none;
+  font-weight:550;
+  font-size: 18px;
+}
+
+.com3 a:visited{
+  color:#408ece;
+  text-decoration-line: none;
+}
+
+.com3 a:hover{
+  color:#408ece;
+  text-decoration-line: none;
+}

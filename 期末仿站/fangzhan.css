@@ -63,7 +63,21 @@
 left:200px;
 bottom:300px; */
   }
-.box {
+  .Online a:link{
+    color:gray;
+}
+.Online a:hover{
+color:gray;
+}
+
+.Online a:visited{
+color:rgb(155, 151, 151);
+}
+
+.Online a:active{
+color:rgb(245, 242, 242);
+}
+.boxyj {
   border:solid 2px #0066eb;
   border-radius: 2em;
   width:200px;
@@ -77,6 +91,25 @@ bottom:300px; */
   margin:30px;
 /* background-color: #ffffff; */
   }
+  .boxyj a:link {
+    border:solid 2px #3058af;
+    background-color:#3058af;
+}
+
+.boxyj a:visited {
+    border:solid 2px #3058af;
+    background-color:#3058af;
+}
+
+.boxyj a:hover {
+    border:solid 2px #3058af;
+    background-color: #0a0b0f;
+}
+
+.boxyj a:active {
+    border:solid 2px #3058af;
+    background-color: #0a0b0f;
+}
 
 .tupian {
   width:650px;
@@ -144,7 +177,7 @@ bottom:300px; */
   bottom: 260px;
   left:698px;
   }
-  .box2 {
+  .box2yj {
   border:solid 2px #0066eb;
   border-radius: 2em;
   width:175px;
@@ -187,7 +220,7 @@ bottom:300px; */
     left:331px;
     bottom: 121px;
     }
-    .box3 {
+    .box3yj {
     border:solid 2px #ffffff;
     border-radius: 2em;
     width:150px;
@@ -201,6 +234,41 @@ bottom:300px; */
     background-color: #ffffff;
     font-weight: bold;
     }
+    .box3yj a:link {
+    width:150px;
+    height:32px;
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    color:#3058af;
+    text-decoration:none;
+}
+
+.box3yj a:visited {
+    width:150px;
+    height:32px;
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    color:#3058af;
+    text-decoration:none;
+}
+
+.box3yj a:hover {
+    width:150px;
+    height:32px;
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    color:#94c0ec;
+    text-decoration:none;
+}
+
+.box3yj a:active {
+    width:150px;
+    height:32px;
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    color:#3058af;
+    text-decoration:none;
+}
     .tupian4 {
     width:430px;
     height:260px;
@@ -347,6 +415,20 @@ bottom:300px; */
   left:560px;
   bottom:2910px;
   }
+  .Based a:link{
+    color:gray;
+}
+.Based a:hover{
+color:gray;
+}
+
+.Based a:visited{
+color:rgb(155, 151, 151);
+}
+
+.Based a:active{
+color:rgb(245, 242, 242);
+}
   .DI {
   color:gray;
   font-size: 15px;
@@ -397,6 +479,20 @@ bottom:300px; */
   left:1000px;
   bottom:3070px;
   }
+  .Terms a:link{
+    color:gray;
+}
+.Terms a:hover{
+color:gray;
+}
+
+.Terms a:visited{
+color:rgb(155, 151, 151);
+}
+
+.Terms a:active{
+color:rgb(245, 242, 242);
+}
   .box4 {
     border:solid 2px #ffffff;
     border-radius: 2em;

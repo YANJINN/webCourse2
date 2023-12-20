@@ -1,0 +1,17 @@
+<style>
+	green-font {
+		color: green;
+	}
+	
+	red-font {
+		color: red;
+	}
+	
+	blue-font {
+		color: blue;
+	}
+
+</style>
+
+
+<div class='greenfont bluefont redfont'>

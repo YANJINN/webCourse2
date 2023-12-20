@@ -1,0 +1,641 @@
+html:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="fangzhan.css">
+</head>
+<body>
+<div class="allcontent">
+    <div class="G">
+      Get connected.Stay connected.
+  </div>
+    <div class="picture">
+      <img class="tupian" src="./123456/c.jpg">
+    </div>
+    <div class="picture2">
+      <img class="tupian2" src="./123456/1.jpg">
+  </div>
+    <div class="O">
+      Online only
+      <div class="GET">
+        Get up to $300 in reward cards
+  </div>
+    <div class="Use">
+      Use code <span class="jiacu">HOLIDAY150</span> and get rewarded when you sign up for <br>AT&T Fiber® online.</br>
+  </div>
+    <div class="Online">
+      Online only. Redemption req'd. $100 with 300 or 500M; $150 with 1 GIG+. Add'l $150 with promo code <br> <span class="jiacu" >HOLIDAY150.</span> Limited availability/areas. 
+        <a href="https://www.att.com/" target="_self">See offer details </br>
+      </a>
+  </div>
+    <section class="box">
+      Shop AT&T Fiber
+    </section>
+      <div class="A">
+        Affordable Connectivity Program
+      </div>
+      <div class="YOU">
+        You may qualify for $0/mo. internet<br> or wireless service</br>
+      </div>
+      <div class="ATT">
+        AT&T is participating in a program with the federal government to<br> give eligible households a benefit on their monthly bill.</br>
+      </div>
+      <div class="plans">
+        Plans up to 100Mbps. Ltd. availability/areas. Free internet subject to continued participation in the<br> ACP and application of the ACP benefit to Access from AT&T plans.</br>
+      </div>
+    <section class="box2">
+        Learn more
+    </section>
+    <div class="picture3">
+      <img class="tupian3" src="./picture/ooooo.jpg">
+    </div>
+      <div class="att">
+        AT&T
+      </div>
+      <div class="When">
+        When we connect, things change
+      </div>
+      <div class="From">
+        From supporting low-income families with affordable internet, to building the nation’s infrastructure,<br> learn how AT&T is unlocking life’s greater possibilities.</br>
+      </div>
+    </div>
+      <section class="box3">
+        Learn more
+      </section>
+  <div class="beijing">
+    <div class="picture4">
+      <img class="tupian4" src="./picture/ka.png">
+    </div>
+    <div class="picture5">
+      <img class="tupian5" src="./picture/dianhua.png">
+    </div>
+    <div class="picture6">
+      <img class="tupian6" src="./picture/heise.png">
+    </div>
+    <div class="kuang">
+    </div>
+    <div class="kuang2">
+    </div>
+    <div class="kuang3">
+    </div>
+    <div class="Card">
+    AT&T Points Plus® Card
+    </div>
+    <div class="Earn">
+    Earn up to $340 back
+    </div>
+      <span class="gou1">
+      <img class="gg"src="./123456/勾.svg">
+        $100 statement credit after spending $1,000 in <br>
+        the first 3 months.</br>
+      </span>
+      <div class="gou2">
+      <img class="gg"src="./123456/勾.svg">
+      $20 statement credit every billing cycle you <br>
+      spend $1,000+ on your card (that's up to $240 a <br>
+      year!) for AT&T Wireless customers.</br>
+    </div>
+      <div class="qian1">
+        <span class="jiacu">$100 statement credit:</span> Not available if you have previously <br>received a new account bonus for an AT&T Points Plus Card from <br>Citi account in the past 48 months.</br>
+    </div>
+      <div class="qian2">
+        <span class="jiacu">$20 statement credits:</span> AT&T consumer postpaid wireless <br>
+        account must be enrolled in paperless billing and AutoPay at <br>
+        AT&T with your AT&T Points Plus Card as the payment method.</br>
+    </div>
+      <div class="R">
+      AT&T Prepaid®
+    </div>
+      <div class="Low">
+      Low-priced plans.
+      <br>High-quality network.</br>
+    </div>
+      <div class="Plans">
+      Plans starting at <span class="jiacu">$30/mo. for a single line</span>, plus no <br>annual contract or credit check— all on America's <br>most reliable 5G network.</br>
+    </div>
+      <div class="Based">
+      Based on nationwide GWS drive test data. GWS conducts paid <br>drive tests for AT&T and uses the data in its analysis. Req's <br>compatible plan & device. Coverage not available everywhere. <br>
+      Learn more at <a href="https://www.att.com/" target="_self">att.com/5Gforyou </a></br>
+    </div>
+      <div class="DI">
+      DIRECTV
+    </div>
+      <div class="TV">
+      TV with or without a satellite <br>dish</br>
+    </div>
+      <div class="gou3">
+      <img class="gg"src="./123456/勾.svg">
+      Up to a $400 VISA Reward Card*
+    </div>
+      <div class="gou4">
+      <img class="gg"src="./123456/勾.svg">
+      Sports Pack for 3 months, on us!**
+    </div>
+      <div class="gou5">
+      <img class="gg"src="./123456/勾.svg">
+      2-yr. price guarantee***
+    </div>
+      <div class="New">
+      New approved residential customers. 24-mo agmt. <br>req'd. 
+      *<span class="jiacu">Limited Time Offer.</span> $100 Reward Card with <br>ENTERTAINMENT package,
+      $200 Reward Card with CHOICE <br>package,
+      $300 Reward Card with ULTIMATE package or $400<br> Reward Card with PREMIER package. 
+      Redemption req'd. 24-mo. <br>agmt, Autopay and Paperless Bill req'd.
+      New approved residential <br>customers. <span class="jiacu">Available only on directv.com.</span>
+      Offer subject to <br>change. **Ltd. time offer. DIRECTV Sports Pack auto-renews <br>monthly after 3 mos. 
+      at then-prevailing rate (currently <br>$14.99/mo. + tax) unless cancelled online/by <br>phone. ***Taxes/fees apply. 
+      All offers subject to change.  
+    </div>
+      <div class="Terms">
+      Terms apply to all offers. New approved resid.
+      customers only. <br>w/24 mo. agmt., price incl.
+      TV pkg. & equip. fees for first TV. Add'l <br>fees may apply to non-qualified customers.
+      Early agmt. <br>termination fee applies ($20/mo.) & add'l fee(s) may apply if <br>equip. 
+      not returned. Equip. lease req'd in most sales channels. <br>Credit card req'd (except MA & PA). 
+      Restr's apply.
+      <br><a href="https://www.att.com/" target="_self">See offer details </a> 
+    </div>
+      <section class="box4">
+        Learn more
+    </section>
+      <section class="box5">
+        Learn more
+    </section>
+      <section class="box6">
+        Learn more
+    </section>
+
+
+
+  </div>
+  </div>
+</body>
+</html>
+
+
+
+CSS :
+
+.G {
+  color:#1d2329;
+  font-size:42px;
+/* width: 10px; */
+  font-weight: bold;
+  line-height: 1;
+  text-align:center;
+  }
+.S {
+  color:black;
+  font-size:42px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-align:center;
+  }
+.GET {
+  color:black;
+  font-size:32px;
+  font-weight: bold;
+  line-height: 1;
+  text-align: center;
+  margin: 8px;
+  }
+.picture {
+  margin:35px;
+  height: 2px;
+  width: 2px;
+  border-radius: 2em; 
+  position: relative;
+  left:-100px;
+  transition: width 0.5s ease;
+  }
+.picture:hover {
+  width:50px;
+	left:-105px; /* 悬停时移动到 0px 的位置 */
+}
+.gg {
+  width:20px;
+  filter: var(--rte-checkmark-att-blue, invert(44%) sepia(51%) saturate(1947%) hue-rotate(165.4deg) brightness(94%) contrast(101%));
+}
+/* img{
+  width:600px;
+  height:600px;
+} */
+
+.O {
+  color:gray;
+  text-align: center;
+  font-size:21px;
+  position: relative;
+  bottom: 680px;
+  left:-340px; 
+  }
+.Use {
+  color:gray;
+  font-size:18px;
+  }
+.Online {
+  color:gray;
+  font-size:12px;
+  margin: 15px;
+/* position: relative;
+left:200px;
+bottom:300px; */
+  }
+.box {
+  border:solid 2px #3058af;
+  border-radius: 2em;
+  width:200px;
+  height:40px;
+  color:#3058af;
+/* padding-left: 10px; */
+  padding-top: 10px;
+  text-align: center;
+  position: relative;
+  left:460px;
+  margin:30px;
+/* background-color: #ffffff; */
+  }
+
+.tupian {
+  width:650px;
+  height:660px;
+  border:1px solid #ffffff;
+  border-radius:1.5em;
+  transition:all 1s;
+  }
+
+.picture2 {
+  position: relative;
+  left:610px;
+  bottom: 35px;
+
+  }
+
+.tupian2 {
+  width:650px;
+  height:660px;
+  border:1px solid #ffffff;
+  border-radius:1.5em;
+  }
+
+.allcontent {
+  width:1200px;
+  padding-top:10px;
+  padding-bottom:10px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+.A {
+  color:gray;
+  font-size:19px;
+  position: relative;
+  bottom: 277px;
+  left:700px; 
+  }
+  .YOU {
+  color:black;
+  font-size:32px;
+  font-weight: bold;
+  line-height: 1;
+  text-align: center;
+  margin: 8px;
+  position: relative;
+  bottom: 275px;
+  left:685px; 
+    }
+.ATT {
+  color:gray;
+  font-size:18px;
+  position: relative;
+  bottom: 272px;
+  left:700px; 
+}
+
+.jiacu {
+  color:rgb(87, 81, 81);
+  font-weight:700;
+}
+.plans {
+  color:gray;
+  font-size:12px;
+  position: relative;
+  bottom: 260px;
+  left:698px;
+  }
+  .box2 {
+  border:solid 2px #3058af;
+  border-radius: 2em;
+  width:175px;
+  height:41px;
+  color:#3058af;
+  padding-top: 10px;
+  text-align: center;
+  position: relative;
+  left:1185px;
+  bottom: 230px;
+  }
+  .tupian3 {
+  width:1483px;
+  height:375px;
+  border:1px solid #ffffff;
+  border-radius:0.6em;
+  position: relative;
+  left:202px;
+  bottom: -150px;
+    }
+  .att {
+  color:#ffffff;
+  font-size: 21px;
+  position: relative;
+  left:331px;
+  bottom: 129px;
+    }
+    .When {
+    color:#ffffff;
+    font-size:40px;
+    position: relative;
+    left:331px;
+    bottom: 129px;
+    font-weight: bold;
+    }
+    .From {
+    color:#ffffff;
+    font-size:16px;
+    position: relative;
+    left:331px;
+    bottom: 121px;
+    }
+    .box3 {
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    width:150px;
+    height:32px;
+    color:#3058af;
+    padding-top: 10px;
+    text-align: center;
+    position: relative;
+    left:520px;
+    bottom: 785px;
+    background-color: #ffffff;
+    font-weight: bold;
+    }
+    .tupian4 {
+    width:430px;
+    height:260px;
+    border:1px solid #ffffff;
+    border-radius:0.6em;
+    position: relative;
+    left:65px;
+    bottom: -50px;
+    }
+    .tupian5 {
+    width:415px;
+    height:260px;
+    border:1px solid #ffffff;
+    border-radius:0.6em;
+    position: relative;
+    left:530px;
+    bottom:220px;
+    }
+    .tupian6 {
+    width:380px;
+    height:260px;
+    border:1px solid #ffffff;
+    border-radius:0.6em;
+    position: relative;
+    left:980px;
+    bottom: 485px;
+    }
+  .beijing {
+    background-color:rgb(247, 243, 243);
+    position: relative;
+    bottom:680px;
+    height:1160px;
+    width:1490px;
+    left:-135px;
+  }
+  .kuang {
+  width: 430px;
+  height: 750px;
+  border:1px solid #ffffff;
+  border-radius:0.6em;
+  background-color: #ffffff;
+  border-radius: 0px;
+  border-end-start-radius: 12px;
+  border-end-end-radius: 12px;
+  position: relative;
+  left:65px;
+  bottom: 485.8px;
+  }
+  .kuang2 {
+  width: 415px;
+  height: 750px;
+  border:1px solid #ffffff;
+  border-radius:0.6em;
+  background-color: #ffffff;
+  border-radius: 0px;
+  border-end-start-radius: 12px;
+  border-end-end-radius: 12px;
+  position: relative;
+  left:530px;
+  bottom: 1241.5px;
+  }
+  .kuang3 {
+  width: 380px;
+  height: 750px;
+  border:1px solid #ffffff;
+  border-radius:0.6em;
+  background-color: #ffffff;
+  border-radius: 0px;
+  border-end-start-radius: 12px;
+  border-end-end-radius: 12px;
+  position: relative;
+  left:980px;
+  bottom: 1995px;
+  }
+  .Card {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:95px;
+  bottom: 2715px;
+  }
+  .Earn {
+  color:black;
+  font-weight: bold;
+  font-size: 23px;
+  position: relative;
+  left:95px;
+  bottom: 2708px;
+  }
+  .gou1{
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:100px;
+  bottom: 2690px;
+  }
+  .gou2 {
+  color:gray;
+  font-size:15px;
+  position: relative;
+  left:100px;
+  bottom:2675px;
+  }
+  .qian1 {
+  color:gray;
+  font-size:11.5px;
+  position: relative;
+  left:100px;
+  bottom:2656px;
+  }
+  .qian2 {
+  color:gray;
+  font-size:11.5px;
+  position: relative;
+  left:100px;
+  bottom:2640px;
+  }
+  .R {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:560px;
+  bottom: 2962px;
+  }
+  .Low {
+  color:black;
+  font-weight: bold;
+  font-size: 23px;
+  position: relative;
+  left:560px;
+  bottom: 2955px;
+  }
+  .Plans {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:560px;
+  bottom: 2930px;
+  }
+  .Based {
+  color:gray;
+  font-size:11.5px;
+  position: relative;
+  left:560px;
+  bottom:2910px;
+  }
+  .DI {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:1005px;
+  bottom:3162px;
+  }
+  .TV {
+  color:black;
+  font-weight: bold;
+  font-size: 23px;
+  position: relative;
+  left:1005px;
+  bottom: 3155px;
+  }
+  .gou3 {
+  color:gray;
+  font-size: 15px;
+  position: relative;
+  left:1005px;
+  bottom: 3130px;
+  }
+  .gou4 {
+  color:gray;
+  font-size:15px;
+  position: relative;
+  left:1005px;
+  bottom: 3120px;
+  }
+  .gou5 {
+  color:gray;
+  font: size 15px;
+  position: relative;
+  left:1005px;
+  bottom: 3110px;
+  }
+  .New {
+  color:gray;
+  font-size:11px;
+  position: relative;
+  left:1000px;
+  bottom:3090px;
+  }
+  .Terms {
+  color:gray;
+  font-size:11px;
+  position: relative;
+  left:1000px;
+  bottom:3070px;
+  }
+  .box4 {
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    width:150px;
+    height:36px;
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    left:100px;
+    bottom: 2930px;
+    background-color: #2455f7;
+    font-weight: bold;
+    padding-top: 10px;
+    }
+    .box5 {
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    width:150px;
+    height:36px;
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    left:550px;
+    bottom: 2980px;
+    background-color: #2455f7;
+    font-weight: bold;
+    padding-top: 10px;
+    }
+    .box6 {
+    border:solid 2px #ffffff;
+    border-radius: 2em;
+    width:150px;
+    height:36px;
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    left:1000px;
+    bottom: 3035px;
+    background-color: #2455f7;
+    font-weight: bold;
+    padding-top: 10px;
+    }
+  /* .xiahuaxian a:link {
+  text-decoration: underline;
+  color:gray;
+  }
+  .xiahuaxian a:visited{
+  text-decoration: underline;
+  color:gray;
+  }
+  .xiahuaxian a:hover {
+  text-decoration: underline;
+  color:gray;
+  }
+  .xiahuaxian a:active {
+  text-decoration: underline;
+  color:gray;
+  } */
+
+
