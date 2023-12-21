@@ -93,26 +93,42 @@ color:rgb(245, 242, 242);
   position: relative;
   left:460px;
   margin:30px;
-/* background-color: #ffffff; */
+  background-color: #ffffff;
+
   }
   .boxyj a:link {
-    border:solid 2px #3058af;
-    background-color:#3058af;
+    border:solid 0px white;
+    /* background-color:#0057b8; */
+    text-decoration: none;
+    color: #fff;
 }
 
 .boxyj a:visited {
-    border:solid 2px #3058af;
-    background-color:#3058af;
+    /* border:solid 2px white; */
+    background-color:#0057b8;
+    text-decoration: none;
+    color: #0057b8;
+}
+.boxyj a:hover{
+    border:solid 2px #0057b8;
+    background-color: #0057b8;
+    color:#ffffff;
+    text-decoration: none;
+}
+.boxyj:hover {
+    border:solid 2px #0057b8;
+    background-color: #0057b8;
+    color:#ffffff;
+    text-decoration: none;
 }
 
-.boxyj a:hover {
-    border:solid 2px #3058af;
-    background-color: #0a0b0f;
-}
+
 
 .boxyj a:active {
-    border:solid 2px #3058af;
-    background-color: #0a0b0f;
+    border:solid 2px #0057b8;
+    background-color: #0057b8;
+    text-decoration: none;
+    color: white;
 }
 
 .tupian {
@@ -185,6 +201,7 @@ color:rgb(245, 242, 242);
   border:solid 2px #0057b8;
   border-radius: 2em;
   font-size: 18px;
+  font-weight: bold;
   width:175px;
   height:38px;
   color:#0057b8;
@@ -194,6 +211,26 @@ color:rgb(245, 242, 242);
   left:1185px;
   bottom: 230px;
   }
+  .box2yj a:link {
+    border:solid 2px #0057b8;
+    background-color:#0057b8;
+}
+
+.box2yj a:visited {
+    border:solid 2px #0057b8;
+    background-color:#0057b8;
+}
+
+.box2yj:hover {
+    border:solid 2px #0057b8;
+    background-color: #0057b8;
+    color:#ffffff;
+}
+
+.box2yj a:active {
+    border:solid 2px #0057b8;
+    background-color: #0057b8;
+}
   .tupian3 {
   width:1483px;
   height:375px;
@@ -257,14 +294,14 @@ color:rgb(245, 242, 242);
     text-decoration:none;
 }
 
-.box3yj a:hover {
-    width:150px;
-    height:32px;
+.box3yj:hover {
+    /* width:150px;
+    height:32px; */
     border:solid 2px #ffffff;
     border-radius: 2em;
-    color:#94c0ec; 
+    background-color:#94c0ec; 
     text-decoration:none;
-    color: #172533;
+    color: #3058af;
 }
 
 .box3yj a:active {
@@ -513,6 +550,7 @@ color:rgb(245, 242, 242);
     font-weight: bold;
     padding-top: 10px;
     }
+    
     .box5 {
     border:solid 2px #ffffff;
     border-radius: 2em;
