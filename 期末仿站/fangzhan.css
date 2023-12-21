@@ -14,7 +14,7 @@
   text-align:center;
   }
 .GET {
-  color:black;
+  color:#1d2329;
   font-size:32px;
   font-weight: bold;
   line-height: 1;
@@ -44,7 +44,8 @@
 } */
 
 .O {
-  color:gray;
+  color:#1d2329;
+  display: block;
   text-align: center;
   font-size:21px;
   position: relative;
@@ -78,11 +79,14 @@ color:rgb(155, 151, 151);
 color:rgb(245, 242, 242);
 }
 .boxyj {
-  border:solid 2px #0066eb;
+  border:solid 2px #0057b8;
   border-radius: 2em;
+  font-size: 17px;
+  font-weight: bold;
+  /* padding-top: 100px; */
   width:200px;
-  height:40px;
-  color:#0066eb;
+  height:37px;
+  color:#0057b8;
 /* padding-left: 10px; */
   padding-top: 10px;
   text-align: center;
@@ -141,14 +145,14 @@ color:rgb(245, 242, 242);
   margin-right: auto;
   }
 .A {
-  color:gray;
+  color:rgb(29, 35, 41);
   font-size:19px;
   position: relative;
   bottom: 277px;
   left:700px; 
   }
   .YOU {
-  color:black;
+  color:#1d2329;
   font-size:32px;
   font-weight: bold;
   line-height: 1;
@@ -178,11 +182,12 @@ color:rgb(245, 242, 242);
   left:698px;
   }
   .box2yj {
-  border:solid 2px #0066eb;
+  border:solid 2px #0057b8;
   border-radius: 2em;
+  font-size: 18px;
   width:175px;
-  height:41px;
-  color:#0066eb;
+  height:38px;
+  color:#0057b8;
   padding-top: 10px;
   text-align: center;
   position: relative;
@@ -203,14 +208,14 @@ color:rgb(245, 242, 242);
   font-size: 21px;
   position: relative;
   left:331px;
-  bottom: 129px;
+  bottom: 142px;
     }
     .When {
     color:#ffffff;
     font-size:40px;
     position: relative;
     left:331px;
-    bottom: 129px;
+    bottom: 134px;
     font-weight: bold;
     }
     .From {
@@ -253,11 +258,11 @@ color:rgb(245, 242, 242);
 }
 
 .box3yj a:hover {
-    /* width:150px;
+    width:150px;
     height:32px;
     border:solid 2px #ffffff;
     border-radius: 2em;
-    color:#94c0ec; */
+    color:#94c0ec; 
     text-decoration:none;
     color: #172533;
 }

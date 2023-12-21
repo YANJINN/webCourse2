@@ -542,7 +542,7 @@ line-height: 1.5;
 text-align:center;
 }
 .GET {
-color:black;
+color:#1d2329;
 font-size:32px;
 font-weight: bold;
 line-height: 1;
@@ -606,11 +606,13 @@ color:rgb(155, 151, 151);
 color:rgb(245, 242, 242);
 }
 .boxyj {
-border:solid 2px #3058af;
+border:solid 2px #0057b8;
 border-radius: 2em;
+font-size: 17px;
+  /* padding-top: 100px; */
 width:200px;
-height:40px;
-color:#3058af;
+height:37px;
+color:#0057b8;
 /* padding-left: 10px; */
 padding-top: 10px;
 text-align: center;
@@ -676,7 +678,7 @@ bottom: 277px;
 left:700px; 
 }
 .YOU {
-color:black;
+color:#1d2329;
 font-size:32px;
 font-weight: bold;
 line-height: 1;
@@ -705,18 +707,19 @@ position: relative;
 bottom: 260px;
 left:698px;
 }
-.box2yj {
-border:solid 2px #3058af;
-border-radius: 2em;
-width:175px;
-height:41px;
-color:#3058af;
-padding-top: 10px;
-text-align: center;
-position: relative;
-left:1185px;
-bottom: 230px;
-}
+    .box2yj {
+    border:solid 2px #0057b8;
+    border-radius: 2em;
+    font-size: 18px;
+    width:175px;
+    height:38px;
+    color:#0057b8;
+    padding-top: 10px;
+    text-align: center;
+    position: relative;
+    left:1185px;
+    bottom: 230px;
+    }
 .tupian3 {
 width:1483px;
 height:375px;
@@ -731,14 +734,14 @@ color:#ffffff;
 font-size: 21px;
 position: relative;
 left:331px;
-bottom: 129px;
+bottom: 142px;
 }
 .When {
 color:#ffffff;
 font-size:40px;
 position: relative;
 left:331px;
-bottom: 129px;
+bottom: 134px;
 font-weight: bold;
 }
 .From {
