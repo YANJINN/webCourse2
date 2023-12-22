@@ -83,52 +83,35 @@ color:rgb(245, 242, 242);
   border-radius: 2em;
   font-size: 17px;
   font-weight: bold;
-  /* padding-top: 100px; */
   width:200px;
   height:37px;
-  color:#0057b8;
-/* padding-left: 10px; */
   padding-top: 10px;
   text-align: center;
   position: relative;
   left:460px;
   margin:30px;
-  background-color: #ffffff;
-
-  }
-  .boxyj a:link {
-    border:solid 0px white;
-    /* background-color:#0057b8; */
-    text-decoration: none;
-    color: #fff;
+  color:#0057b8
 }
 
-.boxyj a:visited {
-    /* border:solid 2px white; */
-    background-color:#0057b8;
-    text-decoration: none;
-    color: #0057b8;
-}
-.boxyj a:hover{
-    border:solid 2px #0057b8;
-    background-color: #0057b8;
-    color:#ffffff;
-    text-decoration: none;
-}
-.boxyj:hover {
-    border:solid 2px #0057b8;
-    background-color: #0057b8;
-    color:#ffffff;
-    text-decoration: none;
+.boxyj a:link{
+  text-decoration-line: none;
 }
 
+.boxyj a:visited{
+  color:#0057b8;
+  text-decoration-line: none;
+}
 
+.boxyj:hover{
+  color:#ffffff;
+  background-color:#0057b8;
+  border-color:#0057b8;
+  text-decoration-line: none;
+  
+}
 
-.boxyj a:active {
-    border:solid 2px #0057b8;
-    background-color: #0057b8;
-    text-decoration: none;
-    color: white;
+.link2 a:link{
+  text-decoration-line: none;
 }
 
 .tupian {
@@ -197,6 +180,7 @@ color:rgb(245, 242, 242);
   bottom: 260px;
   left:698px;
   }
+
   .box2yj {
   border:solid 2px #0057b8;
   border-radius: 2em;
@@ -210,27 +194,29 @@ color:rgb(245, 242, 242);
   position: relative;
   left:1185px;
   bottom: 230px;
+  text-decoration-line:none;
   }
-  .box2yj a:link {
-    border:solid 2px #0057b8;
-    background-color:#0057b8;
+
+.box2yj a:link{
+  text-decoration-line: none;
 }
 
-.box2yj a:visited {
-    border:solid 2px #0057b8;
-    background-color:#0057b8;
+.box2yj a:visited{
+  color:#0057b8;
+  text-decoration-line: none;
 }
 
-.box2yj:hover {
-    border:solid 2px #0057b8;
-    background-color: #0057b8;
-    color:#ffffff;
+.box2yj:hover{
+  color:#ffffff;
+  background-color:#0057b8;
+  border-color:#0057b8;
+  text-decoration-line: none;
 }
 
-.box2yj a:active {
-    border:solid 2px #0057b8;
-    background-color: #0057b8;
+.link a:link{
+  text-decoration-line: none;
 }
+
   .tupian3 {
   width:1483px;
   height:375px;
@@ -239,14 +225,16 @@ color:rgb(245, 242, 242);
   position: relative;
   left:202px;
   bottom: -150px;
-    }
+}
+
   .att {
   color:#ffffff;
   font-size: 21px;
   position: relative;
   left:331px;
   bottom: 142px;
-    }
+}
+
     .When {
     color:#ffffff;
     font-size:40px;
@@ -254,14 +242,16 @@ color:rgb(245, 242, 242);
     left:331px;
     bottom: 134px;
     font-weight: bold;
-    }
+}
+
     .From {
     color:#ffffff;
     font-size:16px;
     position: relative;
     left:331px;
     bottom: 121px;
-    }
+}
+
     .box3yj {
     border:solid 2px #ffffff;
     border-radius: 2em;
@@ -275,43 +265,24 @@ color:rgb(245, 242, 242);
     bottom: 785px;
     background-color: #ffffff;
     font-weight: bold;
-    }
-    .box3yj a:link {
-    width:150px;
-    height:32px;
-    border:solid 2px #ffffff;
-    border-radius: 2em;
-    color:#3058af;
-    text-decoration:none;
 }
 
-.box3yj a:visited {
-    width:150px;
-    height:32px;
-    border:solid 2px #ffffff;
-    border-radius: 2em;
-    color:#3058af;
-    text-decoration:none;
+.box3yj a:link{
+  text-decoration-line: none;
 }
 
-.box3yj:hover {
-    /* width:150px;
-    height:32px; */
-    border:solid 2px #ffffff;
-    border-radius: 2em;
-    background-color:#94c0ec; 
-    text-decoration:none;
-    color: #3058af;
+.box3yj a:visited{
+  color:#0057b8;
+  text-decoration-line: none;
 }
 
-.box3yj a:active {
-    width:150px;
-    height:32px;
-    border:solid 2px #ffffff;
-    border-radius: 2em;
-    color:#3058af;
-    text-decoration:none;
+.box3yj:hover{
+  color:#ffffff;
+  background-color:rgb(222, 243, 250);
+  border-color:rgb(222, 243, 250);
+  text-decoration-line: none;
 }
+
     .tupian4 {
     width:430px;
     height:260px;
@@ -536,7 +507,7 @@ color:rgb(155, 151, 151);
 .Terms a:active{
 color:rgb(245, 242, 242);
 }
-  .box4 {
+  .box4yj {
     border:solid 2px #ffffff;
     border-radius: 2em;
     width:150px;
@@ -546,12 +517,27 @@ color:rgb(245, 242, 242);
     position: relative;
     left:100px;
     bottom: 2930px;
-    background-color: #0066eb;
+    background-color:#0057b8;
     font-weight: bold;
     padding-top: 10px;
-    }
+}
+
+.box4yj a:link{
+  text-decoration-line: none;
+}
+
+.box4yj a:visited{
+  color:#ffffff;
+  text-decoration-line: none;
+}
+
+.box4yj:hover{
+  color:#ffffff;
+  background-color:#3671b6;
+  text-decoration-line: none;
+}
     
-    .box5 {
+    .box5yj {
     border:solid 2px #ffffff;
     border-radius: 2em;
     width:150px;
@@ -561,11 +547,27 @@ color:rgb(245, 242, 242);
     position: relative;
     left:550px;
     bottom: 2980px;
-    background-color: #0066eb;
+    background-color:#0057b8;
     font-weight: bold;
     padding-top: 10px;
     }
-    .box6 {
+
+    .box5yj a:link{
+  text-decoration-line: none;
+}
+
+.box5yj a:visited{
+  color:#ffffff;
+  text-decoration-line: none;
+}
+
+.box5yj:hover{
+  color:#ffffff;
+  background-color:#3671b6;
+  text-decoration-line: none;
+}
+
+    .box6yj {
     border:solid 2px #ffffff;
     border-radius: 2em;
     width:150px;
@@ -575,10 +577,25 @@ color:rgb(245, 242, 242);
     position: relative;
     left:1000px;
     bottom: 3035px;
-    background-color: #0066eb;
+    background-color:#0057b8;
     font-weight: bold;
     padding-top: 10px;
     }
+
+    .box6yj a:link{
+  text-decoration-line: none;
+}
+
+.box6yj a:visited{
+  color:#ffffff;
+  text-decoration-line: none;
+}
+
+.box6yj:hover{
+  color:#ffffff;
+  background-color:#3671b6;
+  text-decoration-line: none;
+}
   /* .xiahuaxian a:link {
   text-decoration: underline;
   color:gray;
